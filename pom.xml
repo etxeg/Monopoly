@@ -51,7 +51,7 @@
 		<sonar.organization>etxeg</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>etxeg_monopoly</sonar.projectKey>
-		<sonar.login>71a9a0c1c9fdb90c7caf55d8ab71f4e2f9d2b2f6</sonar.login>
+		<sonar.login>SONAR_TOKEN</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
