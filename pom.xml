@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId>
-	<artifactId>ProjectName</artifactId>
+	<artifactId>Monopoly</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -48,10 +48,10 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 
-		<sonar.organization>your organization</sonar.organization>
+		<sonar.organization>etxeg</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>project key</sonar.projectKey>
-		<sonar.login>yourToken</sonar.login>
+		<sonar.projectKey>etxeg_monopoly</sonar.projectKey>
+		<sonar.login>71a9a0c1c9fdb90c7caf55d8ab71f4e2f9d2b2f6</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
